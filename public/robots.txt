@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /post-listing
+Disallow: /edit-listing/
+Disallow: /favorites
+Disallow: /signin
+Disallow: /signup
+
+Sitemap: https://sooqalsayarat.com/sitemap.xml
+Sitemap: https://akbaivweizbnfdmxgxaf.supabase.co/functions/v1/sitemap
